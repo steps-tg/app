@@ -1,1 +1,0 @@
-import{_ as t,v as n,L as p,D as i,z as r,E as l}from"./index-BT9_cHek.js";const m=s=>{var{Component:e="span",baseClassName:o}=s,a=t(s,["Component","baseClassName"]);return n.jsx(p,i(l({Component:e},a),{baseClassName:r(o,"vkuiVisuallyHidden",e==="input"&&"vkuiVisuallyHidden--focusable-input")}))};export{m as V};
